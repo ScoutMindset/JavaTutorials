@@ -1,7 +1,7 @@
 /**
  * Created by jaturul on 20.01.16.
  */
-public class Light
+/*public class Light
 {
     public static void main(String args[])
     {
@@ -20,4 +20,4 @@ public class Light
         System.out.print(" light will travel ");
         System.out.println(distance + " metres.");
     }
-}
+}*/
