@@ -1,7 +1,7 @@
 /**
  * Created by jaturul on 20.01.16.
  */
-public class CircleArea
+/*public class CircleArea
 {
     public static void main(String args[])
     {
@@ -14,4 +14,4 @@ public class CircleArea
         circleArea = pi * r * r;
         System.out.println("The area of the circle is " + circleArea);
     }
-}
+}*/
