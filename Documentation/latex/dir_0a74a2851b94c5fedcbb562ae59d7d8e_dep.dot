@@ -1,9 +1,0 @@
-digraph "/home/jaturul/IntelliJ IDEA/IdeaProjects/HelloWorld/HelloWorld/src" {
-  compound=true
-  node [ fontsize="10", fontname="Helvetica"];
-  edge [ labelfontsize="10", labelfontname="Helvetica"];
-  subgraph clusterdir_5bd840cdc5e93fc50dd95b4c85477c4b {
-    graph [ bgcolor="#ddddee", pencolor="black", label="HelloWorld" fontname="Helvetica", fontsize="10", URL="dir_5bd840cdc5e93fc50dd95b4c85477c4b.html"]
-  dir_0a74a2851b94c5fedcbb562ae59d7d8e [shape=box, label="src", style="filled", fillcolor="#eeeeff", pencolor="black", URL="dir_0a74a2851b94c5fedcbb562ae59d7d8e.html"];
-  }
-}
