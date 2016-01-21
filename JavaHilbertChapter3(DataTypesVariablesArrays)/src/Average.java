@@ -1,6 +1,7 @@
 /**
  * Created by jaturul on 21.01.16.
  */
+/*
 public class Average
 {
     public static void main(String args[])
@@ -14,3 +15,4 @@ public class Average
         System.out.println("The average of the elements in the nums[] array is " + result/5);
     }
 }
+*/
