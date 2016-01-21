@@ -1,7 +1,7 @@
 /**
  * Created by jaturul on 21.01.16.
  */
-public class Conversion
+/*public class Conversion
 {
     public static void main(String args[])
     {
@@ -22,4 +22,4 @@ public class Conversion
         System.out.println("d and b " + d + " " + b);
     }
 
-}
+}*/
