@@ -1,7 +1,7 @@
 /**
  * Created by jaturul on 20.01.16.
  */
-public class CharDemo2
+/*public class CharDemo2
 {
     public static void main(String args[])
     {
@@ -11,5 +11,6 @@ public class CharDemo2
 
         ch1++;
         System.out.println("After incrementation, \"ch1\" character contains: " + ch1);
+        System.out.println("\ua432");
     }
-}
+}*/
