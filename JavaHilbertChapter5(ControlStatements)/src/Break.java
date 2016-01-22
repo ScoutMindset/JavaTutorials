@@ -1,7 +1,7 @@
 /**
  * Created by jaturul on 22.01.16.
  */
-public class Break
+/*public class Break
 {
     public static void main(String args[])
     {
@@ -22,4 +22,4 @@ public class Break
             System.out.println("We're inside the first block.");
         }
     }
-}
+}*/
