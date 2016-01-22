@@ -1,7 +1,7 @@
 /**
  * Created by jaturul on 22.01.16.
  */
-public class IfElse
+/*public class IfElse
 {
     public static void main(String args[])
     {
@@ -32,4 +32,4 @@ public class IfElse
 
         System.out.println("April is part of " + season);
     }
-}
+}*/
