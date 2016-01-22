@@ -1,7 +1,7 @@
 /**
  * Created by jaturul on 22.01.16.
  */
-public class ForEach2
+/*public class ForEach2
 {
     public static void main(String args[])
     {
@@ -35,4 +35,4 @@ public class ForEach2
             System.out.println();
         }
     }
-}
+}*/
