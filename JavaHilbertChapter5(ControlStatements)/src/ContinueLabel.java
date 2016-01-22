@@ -1,7 +1,7 @@
 /**
  * Created by jaturul on 22.01.16.
  */
-public class ContinueLabel
+/*public class ContinueLabel
 {
     public static void main(String args[])
     {
@@ -20,4 +20,4 @@ public class ContinueLabel
             System.out.println();
         }
     }
-}
+}*/
