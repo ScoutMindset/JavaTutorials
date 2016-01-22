@@ -1,7 +1,7 @@
 /**
  * Created by jaturul on 22.01.16.
  */
-public class ForEach
+/*public class ForEach
 {
     public static void main(String args[])
     {
@@ -14,4 +14,4 @@ public class ForEach
         }
         System.out.println("The sum of all elements in the array is " + result);
     }
-}
+}*/
