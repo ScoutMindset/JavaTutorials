@@ -1,7 +1,7 @@
 /**
  * Created by jaturul on 22.01.16.
  */
-public class SampleSwitch
+/*public class SampleSwitch
 {
     public static void main(String args[])
     {
@@ -27,4 +27,4 @@ public class SampleSwitch
             }
         }
     }
-}
+}*/
