@@ -1,6 +1,7 @@
 /**
  * Created by jaturul on 22.01.16.
  */
+/*
 public class BoxDemo
 {
     public static void main(String args[])
@@ -16,3 +17,4 @@ public class BoxDemo
         System.out.println("The volume of this program's box is " + volume);
     }
 }
+*/
