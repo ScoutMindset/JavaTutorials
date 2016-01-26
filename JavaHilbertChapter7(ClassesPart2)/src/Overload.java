@@ -1,6 +1,7 @@
 /**
  * Created by jaturul on 26.01.16.
  */
+/*
 public class Overload
 {
     public static void main(String args[])
@@ -12,3 +13,4 @@ public class Overload
         overloadExample.test(3);
     }
 }
+*/
