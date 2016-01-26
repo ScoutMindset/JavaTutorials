@@ -1,20 +1,16 @@
 /**
  * Created by jaturul on 26.01.16.
  */
+/*
 public class OverloadDemo
 {
-    void test()
+    public static void main(String args[])
     {
-        System.out.println("This is the message of the empty test() function");
-    }
+        OverloadDemo overloadExample = new OverloadDemo();
 
-    void test(int a)
-    {
-        System.out.println("This is the message of the integer test() function\n a = " + a);
-    }
-
-    void test(double b)
-    {
-        System.out.println("This is the message of the double test() function\n b = " + b);
+        overloadExample.test();
+        overloadExample.test(2.0);
+        overloadExample.test(3);
     }
 }
+*/

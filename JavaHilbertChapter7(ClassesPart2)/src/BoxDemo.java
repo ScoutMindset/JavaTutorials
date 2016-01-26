@@ -1,7 +1,7 @@
 /**
  * Created by jaturul on 26.01.16.
  */
-public class BoxDemo
+/*public class BoxDemo
 {
     public static void main(String args[])
     {
@@ -22,4 +22,4 @@ public class BoxDemo
         System.out.println("The dimensions of the fourth box are: ");
         System.out.println("D: " + myBox4.ReadDepth() + " H: " + myBox4.ReadHeight() + " W:" + myBox4.ReadWidth());
     }
-}
+}*/
