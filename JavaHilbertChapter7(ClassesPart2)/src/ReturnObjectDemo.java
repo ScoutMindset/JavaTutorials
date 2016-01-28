@@ -1,7 +1,7 @@
 /**
  * Created by jaturul on 26.01.16.
  */
-public class ReturnObjectDemo
+/*public class ReturnObjectDemo
 {
     public static void main(String args[])
     {
@@ -11,4 +11,4 @@ public class ReturnObjectDemo
         ReturnObject example2 = example.IncreaseByTen();
         System.out.println("The value of the object incremented by 10 is: " + example2.ReadValue());
     }
-}
+}*/
