@@ -1,6 +1,7 @@
 /**
  * Created by jaturul on 28.01.16.
  */
+/*
 public class InnerClassDemo
 {
     public static void main(String Args[])
@@ -11,3 +12,4 @@ public class InnerClassDemo
         outerExample2.test();
     }
 }
+*/
